@@ -14,7 +14,7 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'Publications'
       url: '/blog/'
     - title: 'Pages'
       submenu:
@@ -141,7 +141,7 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'Publications'
       url: '/blog/'
     - url: '/about/'
       title: 'About'

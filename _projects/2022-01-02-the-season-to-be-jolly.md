@@ -1,7 +1,7 @@
 ---
-title: The Season To Be Jolly
+title: Regen PGC
 date: 2022-01-02 08:01:35 +0300
-subtitle: Letterign
+subtitle: cool stuff
 image: '/images/project-9.jpg'
 ---
 
