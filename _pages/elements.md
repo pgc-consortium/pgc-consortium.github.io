@@ -149,6 +149,13 @@ li {
 ```
 
 ***
+## Banner Videos
+<div style="margin: 0; padding: 0; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+  <video autoplay muted loop playsinline style="width: 100%; height: 50%; display: block;">
+    <source src="{{ '/images/pgc_consortium_banner.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Images
 
