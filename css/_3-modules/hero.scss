@@ -119,21 +119,21 @@
 }
 
 .hero__video {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   overflow: hidden;
-  border-radius: 8px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
-  background-color: var(--background-alt-color);
+  border-radius: 0; /* ← Temporarily disabled */
+  box-shadow: none; /* ← Also optional, can re-enable later */
 
   video {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
-    border-radius: 8px;
+    border-radius: 0;
   }
 }
+
 
 .hero__overlay {
   position: absolute;
