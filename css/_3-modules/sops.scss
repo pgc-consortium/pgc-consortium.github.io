@@ -1,0 +1,100 @@
+/* SOP Page Styles */
+
+.sops-page {
+  margin-bottom: 68px;
+
+  @media only screen and (max-width: 768px) {
+    margin-bottom: 48px;
+  }
+}
+
+.sops-page.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.sops-page .row {
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px; // controls space *between* cards
+  justify-content: space-between;
+}
+
+.sop {
+  flex: 1 1 calc(33.333% - 21.33px); // 3 columns with 32px gaps
+  box-sizing: border-box;
+  max-width: calc(33.333% - 21.33px);
+  margin-bottom: 32px;
+}
+
+.sop:hover {
+  transform: translateY(-4px);
+}
+
+.sop__image {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 280px;
+  border-radius: 8px;
+  user-select: none;
+  overflow: hidden;
+  background-color: var(--background-alt-color);
+}
+
+.sop__image::after {
+  content: "";
+  display: table;
+  padding-top: 85%;
+}
+
+.sop__image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.sop__info {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.sop__title {
+  margin-bottom: 16px;
+  font-size: 32px;
+  line-height: 1;
+
+  @media only screen and (max-width: 1024px) {
+    font-size: 30px;
+  }
+}
+
+.sop__title a {
+  position: relative;
+  background: linear-gradient(var(--brand-color), var(--brand-color)) no-repeat bottom;
+  background-size: 100% 0%;
+  transition: background-size 0.2s ease-in-out;
+  color: var(--heading-font-color);
+  text-decoration: none;
+}
+
+.sop:hover .sop__title a {
+  background-size: 100% 28%;
+}
+
+.sop__subtitle {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--text-color);
+}

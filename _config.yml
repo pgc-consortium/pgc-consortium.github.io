@@ -50,6 +50,13 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "sops"
+    values:
+      layout: "sop"
+
+
 
 sass:
   style: compressed
