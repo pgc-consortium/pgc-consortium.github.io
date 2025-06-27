@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/assets/images/01-2.jpg'
 ---
 
 Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
@@ -11,9 +11,9 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/assets/images/100.jpg" loading="lazy">
+    <img src="/assets/images/105.jpg" loading="lazy">
+    <img src="/assets/images/103.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>

@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/blog/page/:num"
+paginate_path: "/publications/page/:num"
 
 
 #-------------------------------
@@ -22,12 +22,12 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
+  publications:
     output: true
-    permalink: /blog/:slug
+    permalink: /publications/:title/
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /projects/:title/
 
 # Pages Path
 defaults:
@@ -42,9 +42,9 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "posts"
+      type: "publications"
     values:
-      layout: "post"
+      layout: "publication"
   - scope:
       path: ""
       type: "projects"

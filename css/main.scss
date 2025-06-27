@@ -35,7 +35,7 @@
     3.10-Testimonials
     3.11-Footer
 :: 4-Layouts
-    4.1-Post
+    4.1-Publication
     4.2-Project
     4.3-Tags Page
 <<<<<<<<<<<<<<<<<<<<<<<<<<<< */
@@ -110,8 +110,8 @@
 /* =======================
 :: 4-Layouts
 ======================= */
-/* >>>>>>>>>>>>>> 4.1-Post <<<<<<<<<<<<<<< */
-{% include_relative _4-layouts/post.scss %}
+/* >>>>>>>>>>>>>> 4.1-Publication <<<<<<<<<<<<<<< */
+{% include_relative _4-layouts/publication.scss %}
 /* >>>>>>>>>>>>>> 4.2-Project <<<<<<<<<<<<<<< */
 {% include_relative _4-layouts/project.scss %}
 /* >>>>>>>>>>>>>> 4.3-Tags Page <<<<<<<<<<<<<<< */

@@ -19,7 +19,7 @@ permalink: /tags/
           <div class="col col-12">
             <div class="tag__info">
               <h2 class="tag__name">{{ this_word }}</h2>
-              <div class="tag__counter">{{ site.tags[this_word].size }} {% if site.tags[this_word].size < 2 %}Post{% else %}Posts{% endif %}</div>
+              <div class="tag__counter">{{ site.tags[this_word].size }} {% if site.tags[this_word].size < 2 %}Publication{% else %}Publications{% endif %}</div>
             </div>
           </div>
         </div>
@@ -27,8 +27,8 @@ permalink: /tags/
 
       <div class="container animate">
         <div class="row">
-          {% for post in site.tags[this_word] %}
-            {% if post.title != null %}
+          {% for publication in site.tags[this_word] %}
+            {% if publication.title != null %}
               {% include article.html %}
             {% endif %}
           {% endfor %}

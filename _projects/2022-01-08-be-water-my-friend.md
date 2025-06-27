@@ -1,3 +1,4 @@
+<!--
 ---
 title: Be Water My Friend
 date: 2022-01-08 08:01:35 +0300
@@ -28,3 +29,4 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+-->
