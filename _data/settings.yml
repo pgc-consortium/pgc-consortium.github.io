@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Bo Meyering
   author__bio: I'm a data scientist and applications developer engaged in plant breeding and basic plant science research.
-  author__avatar: 'images/Bostolenrpofilepic.png'
+  author__avatar:
 
 social:
 - {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
@@ -65,44 +65,6 @@ mailchimp__button__text: Get updates
 projects__settings:
   projects__title: Latest PGC Projects
   projects__description: What whe world is up to!
-
-
-#-------------------------------
-# Testimonials Section
-#testimonial__title: What clients say
-#testimonial__description:
-
-#testimonial__items:
-#  - name: "Aspen Carder"
-#   image: "/images/client-1.jpg"
-#    designation: "Lettering Artist"
-#    link: "https://twitter.com/"
-#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#  - name: "Lydia Siphron"
-#    image: "/images/client-2.jpg"
-#    designation: "Designer"
-#    link: "https://facebook.com/"
-#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#  - name: "Craig Vaccaro"
-#    image: "/images/client-3.jpg"
-#    designation: "Web developer"
-#    link: "https://twitter.com/"
-#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#  - name: "Anika Calzoni"
-#    image: "/images/client-4.jpg"
-#   designation: "Lettering Artist"
-#    link: "https://facebook.com/"
-#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#  - name: "Marcus Botosh"
-#    image: "/images/client-5.jpg"
-#    designation: "Full Stack Designer"
-#    link: "https://twitter.com/"
-#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
 
 #-------------------------------
 # Publications

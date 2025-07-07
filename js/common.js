@@ -117,8 +117,11 @@ document.addEventListener("DOMContentLoaded", function() {
       gutter: 32,
       nav: true,
       mouseDrag: true,
-      autoplay: false,
-      controls: false,
+      autoplay: true,             
+      autoplayTimeout: 7000,      
+      autoplayHoverPause: true,   
+      autoplayButtonOutput: false,
+      controls: true,
       speed: 500,
       responsive: {
         1024: {

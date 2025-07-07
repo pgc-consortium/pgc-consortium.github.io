@@ -27,7 +27,7 @@ description: Publications related to PGC!
 
 <div class="container animate">
   <div class="row">
-    {% assign pubs = site.publications | sort: 'date' | reverse %}
+    {% assign pubs = site.publications | sort: 'date'%}
     {% if pubs.size > 0 %}
       {% for pub in pubs %}
         {% include article.html publication=pub %}
