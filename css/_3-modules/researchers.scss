@@ -1,4 +1,7 @@
-/* Researchers */
+/* ===============================
+   Researchers Section
+================================ */
+
 .researchers {
   padding: 100px 0 152px;
   background-color: var(--background-alt-color);
@@ -8,6 +11,14 @@
   }
 }
 
+.researchers__slider-wrapper {
+  position: relative;
+}
+
+/* ===============================
+   Researcher Card
+================================ */
+
 .researcher-item {
   width: 320px;
   height: 340px;
@@ -16,7 +27,7 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  overflow: hidden; /* Prevent content overflow outside the card */
+  overflow: hidden;
 }
 
 .researcher-content {
@@ -25,17 +36,17 @@
   background-color: var(--background-color);
   display: flex;
   flex-direction: column;
-  height: 100%;  /* Fill entire height of .researcher-item */
+  height: 100%;
   overflow: hidden;
 }
 
 .client-meta {
   text-align: center;
-  flex-grow: 1; /* Take all remaining space */
-  overflow: hidden;  /* Hide overflow */
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Space content evenly */
+  justify-content: space-between;
+  overflow: hidden;
 }
 
 .image-container {
@@ -55,7 +66,7 @@
 }
 
 .client-info {
-  margin-bottom: 10px; /* Reduced margin */
+  margin-bottom: 10px;
   flex-shrink: 0;
 }
 
@@ -74,14 +85,58 @@
 
 .client-text {
   font-size: 16px;
-  margin-top: auto; /* Push text down if space available */
-  overflow: hidden; /* Hide if text too long */
-  text-overflow: ellipsis; /* Show ellipsis if too long */
+  margin-top: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   line-height: 1.2;
 }
 
+/* ===============================
+   Slider Arrows - Modern Bottom Style
+================================ */
+
+/* Slider Controls – Modern Slim Arrows */
+.tns-controls {
+  position: absolute;
+  bottom: 40px; // adjust closer to the cards
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 16px;
+  z-index: 10;
+
+  button {
+    all: unset; /* Removes browser styles */
+  }
+
+  .button {
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: var(--dark);
+    background: var(--button-background-color);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    &:hover {
+      background-color: var(--button-background-hover);
+    }
+  }
+}
+
+
+
+/* ===============================
+   Optional: Nav Dots (Tiny Slider)
+================================ */
 
 .tns-nav {
   position: absolute;

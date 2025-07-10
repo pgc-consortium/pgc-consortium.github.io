@@ -107,36 +107,89 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   /* ============================
-  // Testimonials Slider
+  // Researchers Slider
   ============================ */
-  if (document.querySelector(".my-slider")) {
-    var slider = tns({
-      container: ".my-slider",
-      items: 3,
-      slideBy: 1,
-      gutter: 32,
-      nav: true,
-      mouseDrag: true,
-      autoplay: true,             
-      autoplayTimeout: 7000,      
-      autoplayHoverPause: true,   
-      autoplayButtonOutput: false,
-      controls: true,
-      speed: 500,
-      responsive: {
-        1024: {
-          items: 3,
-        },
-        768: {
-          items: 2,
-        },
-        0: {
-          items: 1,
-        }
-      }
-    });
+ if (document.querySelector(".my-slider")) {
+  var slider = tns({
+    container: ".my-slider",
+    items: 3,
+    slideBy: 1,
+    gutter: 32,
+    nav: false,
+    mouseDrag: true,
+    autoplay: false,
+    controls: true,
+    controlsText: [
+      '<span class="button button--primary button--small">←</span>',
+      '<span class="button button--primary button--small">→</span>'
+    ],
+    speed: 500,
+    responsive: {
+      1024: { items: 3 },
+      768: { items: 2 },
+      0: { items: 1 }
+    }
+  });
+
+  let autoplayTimer;
+  let restartTimeout;
+
+  function startAutoplay() {
+    clearInterval(autoplayTimer);
+    autoplayTimer = setInterval(() => {
+      slider.goTo('next');
+    }, 5000);
   }
 
+  function pauseAutoplay() {
+    clearInterval(autoplayTimer);
+  }
+
+  function handleUserInteraction() {
+    pauseAutoplay();
+    clearTimeout(restartTimeout);
+    restartTimeout = setTimeout(() => {
+      startAutoplay();
+    }, 1000);
+  }
+
+  // Hook drag events to pause/restart autoplay
+  slider.events.on('dragStart', () => {
+    pauseAutoplay();
+  });
+
+  slider.events.on('dragEnd', () => {
+    // Restart autoplay 3 seconds after drag ends
+    clearTimeout(restartTimeout);
+    restartTimeout = setTimeout(() => {
+      startAutoplay();
+    }, 3000);
+  });
+
+  startAutoplay();
+
+  setTimeout(() => {
+    const prevBtn = document.querySelector('.tns-controls [data-controls="prev"]');
+    const nextBtn = document.querySelector('.tns-controls [data-controls="next"]');
+
+    if (prevBtn && nextBtn) {
+      prevBtn.addEventListener("click", handleUserInteraction);
+      nextBtn.addEventListener("click", handleUserInteraction);
+    }
+  }, 100);
+
+  const sliderWrapper = document.querySelector(".researchers__slider-wrapper");
+
+  if (sliderWrapper) {
+    sliderWrapper.addEventListener("wheel", (e) => {
+      if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+        handleUserInteraction();
+      }
+    });
+    sliderWrapper.addEventListener("touchstart", handleUserInteraction);
+    sliderWrapper.addEventListener("touchmove", handleUserInteraction);
+  }
+}
 
   /* =======================
   // Copy Code Button
