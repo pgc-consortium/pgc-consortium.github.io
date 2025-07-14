@@ -1,54 +1,24 @@
-<!--
 ---
 layout: publication
-title:  Do what you can, with what you have, where you are
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
-date:   2024-11-12 15:01:35 +0300
-image:  '/images/03.jpg'
+title:  Good for the soil, but good for the farmer? Addiction and recovery in transitions to regenerative agriculture
+description: While the ecological benefits of regenerative agriculture (RA) are becoming clearer, its effects on farmers themselves are less well-understood. This paper's aim is to understand how farmers experience transitions from industrial agriculture to regenerative agricultural practices. Drawing on the ‘good farmer’ concept of identity, we provide a qualitative, narrative analysis of 51 farmers in United States' Central Great Plains region, who, at various points in time, began transitioning to RA. We found that transitioning farmers set themselves apart from those practicing industrial agriculture, including their past selves, who constituted an ‘other’ against which they contrasted their emerging identities as ‘regenerative’ farmers. These farmers used the discourse of addiction to describe industrial agriculture, seeing RA as a form of recovery from the chemical-intensive and subsidy-fueled treadmill of production that characterizes industrial agriculture. RA is experienced as a process of recovery that entails shifts in farmers' identities as ‘good’ farmers.
+date:   2023-10-31
+image:  '/assets/images/image copy 3.png'
 tags:   [lifestyle, travel, story]
 ---
+## Abstract
 
+While the ecological benefits of regenerative agriculture (RA) are becoming clearer, its effects on farmers themselves are less well-understood. This paper's aim is to understand how farmers experience transitions from industrial agriculture to regenerative agricultural practices. Drawing on the ‘good farmer’ concept of identity, we provide a qualitative, narrative analysis of 51 farmers in United States' Central Great Plains region, who, at various points in time, began transitioning to RA. We found that transitioning farmers set themselves apart from those practicing industrial agriculture, including their past selves, who constituted an ‘other’ against which they contrasted their emerging identities as ‘regenerative’ farmers. These farmers used the discourse of addiction to describe industrial agriculture, seeing RA as a form of recovery from the chemical-intensive and subsidy-fueled treadmill of production that characterizes industrial agriculture. RA is experienced as a process of recovery that entails shifts in farmers' identities as ‘good’ farmers.
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+## Introduction
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/03-1.jpg" loading="lazy" alt="Tram">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/h7N5c9A34Es" target="_blank">Alina K</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+The demise of civilizations can be attributed to the degradation of soils (Lowdermilk, 1950; Montgomery, 2012). Evidence suggests that history may be repeating. The world's soils have lost a total of 133 billion tons of carbon since humans first started farming the land approximately 12,000 years ago (Sanderman et al., 2017). Soil erosion from agricultural fields is estimated to be 10 to 20 times (under no tillage) to more than 100 times (under conventional tillage) higher than the soil formation rate (UN Environment Programme, 2020:7). If current rates of soil loss continue, only one-quarter of all arable and productive land per person in 1960 will be available in 2050 (Food and Agriculture Organization of the United Nations, 2011).
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+The problems of industrial agriculture are not limited to soil. In 2019, the agriculture sector contributed 5.79 gigatons of greenhouse gas emissions (CO2e), which, including land-use change and forestry, represented 11.65 percent of total sector emissions (World Resources Institute, 2022). Industrial pollution via nitrogen runoff is the leading source of water pollution in rivers and streams, the third-largest source for lakes, and the second-largest source for wetlands (Lindwall, 2021:7). Pesticides are routinely detected in 88 percent of streams and rivers (Covert et al., 2020), and more than 90 percent of USA residents have pesticides in their bodies (Chiu et al., 2018). Industrial agriculture has accounted for 60 percent declines in wildlife populations since 1970, and at least one million species are threatened with extinction (World Wildlife Foundation, 2018:7).
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/03-2.jpg" loading="lazy" alt="City">
-    <img src="/images/03-3.jpg" loading="lazy" alt="San Francisco">
-  </div>
-</div>
+“Regenerative agriculture” (RA), has emerged as a leading response to the problems of industrial agricultural practices (O'Donoghue et al., 2022). RA is a “place-based management philosophy whose adherents think about their land, their businesses, and their communities as dynamic ecosystems, contrary to today’s dominant industrial agricultural model” (Sharma et al., 2022:8). RA is neither a new concept nor practice; RA mimics and employs indigenous principles that have been practiced for centuries (Carlisle, 2016, 2022; Dahlberg, 1994). RA practices are heterogenous (Newton et al., 2020; Rehberger et al., 2023), and although no one accepted definition of ‘regenerative’ exists, U.S. mainstream RA discourses typically recognize five principles (Brown, 2018; Fuhrer, 2016; Ibrahim and Ahmed, 2022:5–6; Khangura et al., 2023:2): (1) limit soil disturbance; (2) keep armor (cover) on the soil surface; (3) build diversity; (4) keep living roots in the soil; and (5) integrate animals.
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
+RA's benefits for ecosystems are becoming clearer, as evidence demonstrates that the more complex, diverse landscapes that RA promotes host more biodiversity than simpler ones (Estrada-Carmona et al., 2022; Karp, 2022; Kremen and Merenlender, 2018). RA has proven to repair soil health and biodiversity, increase the amount of soil organic carbon in existing soils and build new soil (Rehberger et al., 2023; Rhodes, 2017), sequester carbon (Burgess et al., 2019:3), improve water infiltration rates (Strickler, 2021:173–209), and improve resiliency to droughts (Basche and DeLonge, 2019).
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/03-4.jpg" loading="lazy" alt="Tram">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/a3ZPAE2kaGU" target="_blank">Jack Patrick</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Charis Sims.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
--->
+While the ecological benefits are becoming clearer, the benefits of regenerative agriculture for farmers themselves are less well-understood. The process of shifting from chemical-intensive, industrial practices to more labor-intensive regenerative practices can require considerable spans of time – often measured in years – before measurable soil quality improvements become evident, even as farmers and ranchers incur the immediate costs of transition (Jacobs et al., 2022). How do farmers experience the transition from industrial-conventional to regenerative agriculture? How does the shift to more regenerative practices shape the well-being of farmers? Does regenerative agriculture restore and renew the farmer as well as the ecosystem? We investigate these questions through in-depth interviews among farmers and ranchers in USA's Central Great Plains region that vary in the breadth, intensity, and length of time with which they have employed regenerative practices. We try to understand how farmers experience the transition to RA, and our findings complement other ‘good farmer’ research on farmers' experiences transitioning away from productivism (Burton and Wilson, 2006; Cusworth, 2020; Haggerty et al., 2009; Marsden, 2013). Our primary contribution is showing how farmers' conceptions of themselves as ‘good farmers’ are imbricated with transitions to regenerative agriculture, exploring how farmers at different stages of the transition navigate and negotiate shifting identities and practices.

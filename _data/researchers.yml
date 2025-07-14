@@ -154,7 +154,7 @@ researcher__items:
     content: "PhD candidate at Iowa State University"
 
   - name: "Somdatta Achar"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Somdatta Achar.jpg"
     designation: "FAB-PGC"
     link: "mailto:sachar2@huskers.unl.edu"
     content: "PhD candidate at University of Nebraska, Lincoln"
@@ -166,7 +166,7 @@ researcher__items:
     content: "PhD candidate at University of Missouri"
 
   - name: "Brandon Schlautman"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Brandon Headshot.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:schlautman@landinstitute.org"
     content: "Lead Scientist at The Land Institute"

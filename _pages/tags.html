@@ -9,7 +9,7 @@ permalink: /tags/
 <!-- begin tags -->
 <section class="tags">
 
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% for item in (0..site.tags.size | minus: 1) %}
   {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
     <div class="tags__inner is-hidden" id="{{ this_word | downcase | url_decode }}">
@@ -36,8 +36,6 @@ permalink: /tags/
       </div>
 
     </div>
-
-    {% endunless %}
   {% endfor %}
 
 </section>
