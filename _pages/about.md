@@ -1,13 +1,23 @@
 ---
 layout: page
-title: About
+title: About Perennial Groundcovers
 permalink: /about/
 image: '/assets/images/01-2.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Perennial Groundcovers (PGCs) are an innovative agricultural approach designed to protect and improve soil health while maintaining high-yield crop production. Unlike traditional cover crops that are planted and terminated annually, PGCs are low-growing perennial plants that remain in the field year-round, providing continuous living cover alongside annual row crops like corn and soybeans.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+This system is being developed to address pressing challenges in agriculture, including soil erosion, nutrient runoff, water quality degradation, and climate resilience. By keeping the soil covered throughout the entire year, PGCs reduce the risk of erosion and leaching, improve soil structure, enhance biodiversity, and contribute to carbon sequestration.
+
+## Why Perennial Groundcovers Matter
+Modern row-crop agriculture in the U.S. Midwest often leaves soil bare for several months each year, making it vulnerable to degradation. PGCs offer a sustainable solution by:
+- Reducing soil erosion and nutrient loss
+
+- Improving water infiltration and retention
+
+- Enhancing soil organic matter and microbial activity
+
+- Supporting long-term farm productivity and environmental stewardship
 
 <div class="gallery-box">
   <div class="gallery">
@@ -15,18 +25,10 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
     <img src="/assets/images/105.jpg" loading="lazy">
     <img src="/assets/images/103.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+## How the System Works
+In a PGC system, perennial grasses are established between the rows of annual crops. These groundcovers are carefully managed to minimize competition for light, water, and nutrients, often through practices like spring suppression and strip tillage. With proper design, PGCs grow low enough to avoid interfering with the main crop’s development while still providing ecological benefits.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+## A Path Toward Regenerative Agriculture
+Perennial Groundcovers are a key part of the transition to regenerative agriculture—systems that not only sustain but improve natural resources. By reducing the trade-offs between productivity and conservation, PGCs make it possible for farmers to produce food profitably while caring for the land for future generations.

@@ -26,6 +26,12 @@ researcher__items:
     designation: "FAB-PGC"
     link: ""
     content: ""
+
+  - name: "Clara Mvuta"
+    image: "/assets/images/IMG_9988.jpg"
+    designation: "FAB-PGC"
+    link: ""
+    content: "Research Intern at Corteva"
   
   - name: "Kyle Kocak"
     image: "/assets/images/image copy.png"
@@ -44,6 +50,12 @@ researcher__items:
     designation: "FAB-PGC"
     link: "mailto:clint.pilcher@corteva.com"
     content: "Global Technical Education Leader at Corteva"
+  
+  - name: "Spencer Barriball"
+    image: "/assets/images/Spencer Headshot.jpg"
+    designation: "FAB-PGC~REGENPGC"
+    link: "mailto:bariball@landinstitute.org"
+    content: "Research Program Manager for Perennial Legumes at The Land Institute"
 
   - name: "Mark Charlet"
     image: "/assets/images/image copy.png"
@@ -52,7 +64,7 @@ researcher__items:
     content: "Senior Research Associate at Corteva"
 
   - name: "Gabriel Jezus"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/headshot_2025.png"
     designation: "FAB-PGC"
     link: "mailto:gabriel.jezus-1@corteva.com"
     content: "Research Intern at Corteva"
