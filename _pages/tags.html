@@ -44,8 +44,10 @@ permalink: /tags/
 <script>
   var tag_name = decodeURIComponent(window.location.search.split('=')[1]);
   if (tag_name) {
+    console.log(tag_name);
     var el = document.getElementById(tag_name);
     if (el) {
+      console.log("hello");
       el.classList.remove("is-hidden");
     }
   }

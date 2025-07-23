@@ -2,7 +2,7 @@
 layout: page
 title: About Perennial Groundcovers
 permalink: /about/
-image: '/assets/images/01-2.jpg'
+image: '/assets/images/Screenshot 2025-07-21 at 15.38.10.png'
 ---
 
 Perennial Groundcovers (PGCs) are an innovative agricultural approach designed to protect and improve soil health while maintaining high-yield crop production. Unlike traditional cover crops that are planted and terminated annually, PGCs are low-growing perennial plants that remain in the field year-round, providing continuous living cover alongside annual row crops like corn and soybeans.
@@ -21,9 +21,7 @@ Modern row-crop agriculture in the U.S. Midwest often leaves soil bare for sever
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/100.jpg" loading="lazy">
-    <img src="/assets/images/105.jpg" loading="lazy">
-    <img src="/assets/images/103.jpg" loading="lazy">
+    <img src="/assets/images/Screenshot 2025-07-21 at 15.45.46.png" loading="lazy">
   </div>
 </div>
 
