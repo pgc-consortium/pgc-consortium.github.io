@@ -4,7 +4,8 @@ title:   Investigating Seed Treatments and Soil Amendments to Improve the Establ
 description: Kentucky bluegrass (KBG) has poor seed establishment in the fall when used as a perennial groundcover in corn production. This study was conducted to investigate the effect of various seed treatments and soil amendments on the establishment of KBG under drought and non-drought conditions, simulated in a growth chamber.
 date:   2025-03-13
 image:  '/assets/images/Pub-2.png'
-tags:   [fashion, workflow, rest]
+tags:   [Field Study, Plant Breeding, Yield Impact]
+author: [Jack Moran, A. Susana Goggi , Ken J. Moore, Shui-zhang Fei]
 ---
 
 Over the past two centuries, the Midwest landscape in the USA has changed dramatically from predominantly tallgrass prairie to highly productive corn (Zea mays L.) and soybean (Glycine max L.) fields. This farming system has increased soil erosion and water quality issues in regard to the landscape, due to chemical leachates and winter fallow periods [1]. According to the 2017 National Resources Inventory Report, Iowa had the highest soil erosion rate of any other state at 5.8 tons of soil per acre [2]. Over the years, there have been attempts to mitigate these problems through the use of winter annual cover crops; however, the uptake of this system by farmers has been sparse, due to cover crop activities coinciding with cash crop (corn/soybean) sowing and harvesting [3].

@@ -4,7 +4,8 @@ title:  Simulation of the water balance in a perennial groundcover corn intercro
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2024-05-13
 image:  '/assets/images/assets_task_01jzxfkrs0ewh80gyprb5j9w57_1752262452_img_0.webp'
-tags:   [workflow, notes, study]
+tags:   [Simulation, Water Balance, Crop Modeling]
+author: Kaila Topping
 ---
 
 ## General Introduction 

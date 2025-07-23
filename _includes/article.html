@@ -1,4 +1,5 @@
-{%- assign item = include.publication | default: post | default: page -%}
+{%- assign item = include.publication -%}
+{%- assign tag_map = include.tag_map -%}
 
 <div class="article col col-4 col-d-6 col-t-12">
 
@@ -9,6 +10,12 @@
          alt="{{ item.title | escape }}">
   </a>
   {%- endif -%}
+
+  <ul>
+    {% for tag in tag_map %}
+      <li>{{ tag[0] }}: {{ tag[1].size }} posts</li>
+    {% endfor %}
+  </ul>
 
   {%- if item.tags and item.tags != empty -%}
   <div class="article-tags__box">
@@ -25,8 +32,19 @@
 
   <div class="article__meta">
     <div class="article-info">
-      <a href="{{ site.baseurl }}/about/"
-         class="article__author-link">{{ site.data.settings.author.author__name }}</a> –
+      <span class="article__author-link">
+        {%- if item.author %}
+          {%- if item.author.size > 1 %}
+            {%- for author in item.author %}
+              {{ author }}{% if forloop.last == false %}{{ ',' }} {% endif %}
+            {%- endfor %}
+          {%- else %}
+            {{ item.author }}
+          {%- endif %}
+        {%- else %}
+          {{ site.data.settings.author.author__name }}
+        {%- endif %}
+      </span> –
       <time class="article__date"
             datetime="{{ item.date | date_to_xmlschema }}">
         {{ item.date | date_to_string }}

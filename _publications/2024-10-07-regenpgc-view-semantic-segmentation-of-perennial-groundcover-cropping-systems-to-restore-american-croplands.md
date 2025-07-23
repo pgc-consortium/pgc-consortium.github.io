@@ -4,7 +4,8 @@ title:  'RegenPGC View: Semantic Segmentation of Perennial Groundcover Cropping 
 description: Modern, conventional row crop agricultural production relies on clean tillage of croplands and bare soil during the dormant season. While this paradigm of crop production has undoubtedly led to great increases in grain yields and efficiency, it has also resulted in significant soil erosion, groundwater contamination, degradation of local ecology, and hypoxic deadzones in US watersheds.
 date: 2024-10-07
 image:  '/assets/images/blue_roi.jpg'
-tags:   [PGC, technology, image processing]
+tags:   [Field Study, Crop Modeling, Dissertation]
+author: [Bryce Meyering, Brandon Schlautman]
 ---
 
 ## ABSTRACT

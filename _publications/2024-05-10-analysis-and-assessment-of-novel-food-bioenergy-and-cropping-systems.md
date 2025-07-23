@@ -4,7 +4,8 @@ title:  "Analysis and assessment of novel food, bioenergy, and cropping systems:
 description: The increasing global demand for meat – and, therefore, animal feed – drives multiple environmental challenges. Mitigating the environmental consequences of the intensive livestock and crop production systems in the Midwestern United States requires multiple innovative approaches. This dissertation explores several such approaches relevant to food production, bioenergy generation, and cropping systems. Four interrelated chapters investigate the challenges and potentials associated with cultured meat (CM), anaerobic digestion (AD), and cover cropping in the United States agricultural landscape.
 date:   2024-05-10
 image:  "/assets/images/assets_task_01jzxc83jwfmmtsej20axdv2p7_1752258932_img_0.webp"
-tags:   [technology, workflow, story]
+tags:   [Dissertation, Technoeconomic Analysis, Yield Impact]
+author: Gabrielle Myers-Bailey
 ---
 
 ## Abstract

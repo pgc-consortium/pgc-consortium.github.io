@@ -1,24 +1,30 @@
+{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+
 <!-- begin publications -->
 <section class="section publications animate">
   <div class="container">
     <div class="row">
       <div class="col col-12">
-        <div class="contaniner__inner">
-  
-        <div class="section__info">
-          <div class="section__head">
-            <h2 class="section__title">{{ site.data.settings.publications__settings.publications__title }}</h2>
+        <div class="container__inner">
+
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title">{{ site.data.settings.publications__settings.publications__title }}</h2>
+            </div>
+            {% if site.data.settings.publications__settings.publications__description %}
+              <p class="section__description">{{ site.data.settings.publications__settings.publications__description }}</p>
+            {% endif %}
           </div>
-          {% if site.data.settings.publication__settings.publication__description %}
-            <p class="section__description">{{ site.data.settings.publications__settings.publications__description }}</p>
-          {% endif %}
-        </div>
-  
+
           <div class="row">
-            {% if site.publications.size > 0 %}
-              {% for publication in site.publications offset:0 limit:3 %}
+            {% if sorted_publications.size > 0 %}
+              {% for publication in sorted_publications offset:0 limit:3 %}
                 {% include article.html publication=publication %}
               {% endfor %}
+            {% else %}
+              <div class="col col-12">
+                <p>No publications found.</p>
+              </div>
             {% endif %}
           </div>
 
@@ -31,4 +37,4 @@
     <a href="{{ '/publications' | relative_url }}" class="button button--primary section-button">See all</a>
   </div>
 </section>
-<!-- end blog -->
+<!-- end publications -->

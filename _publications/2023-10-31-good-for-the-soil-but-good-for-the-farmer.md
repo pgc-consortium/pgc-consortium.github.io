@@ -4,7 +4,8 @@ title:  Good for the soil, but good for the farmer? Addiction and recovery in tr
 description: While the ecological benefits of regenerative agriculture (RA) are becoming clearer, its effects on farmers themselves are less well-understood. This paper's aim is to understand how farmers experience transitions from industrial agriculture to regenerative agricultural practices. Drawing on the ‘good farmer’ concept of identity, we provide a qualitative, narrative analysis of 51 farmers in United States' Central Great Plains region, who, at various points in time, began transitioning to RA. We found that transitioning farmers set themselves apart from those practicing industrial agriculture, including their past selves, who constituted an ‘other’ against which they contrasted their emerging identities as ‘regenerative’ farmers. These farmers used the discourse of addiction to describe industrial agriculture, seeing RA as a form of recovery from the chemical-intensive and subsidy-fueled treadmill of production that characterizes industrial agriculture. RA is experienced as a process of recovery that entails shifts in farmers' identities as ‘good’ farmers.
 date:   2023-10-31
 image:  '/assets/images/image copy 3.png'
-tags:   [lifestyle, travel, story]
+tags:   [Case Study, Qualitative Research, Farmer Experience]
+author: [Jacob A. Miller-Klugesherz, Matthew R. Sanderson]
 ---
 ## Abstract
 

@@ -5,7 +5,8 @@ description: Perennial groundcover (PGC) has promise as a scalable approach to g
 
 date:   2024-08-19
 image:  '/assets/images/assets_task_01jzwzrzqeef2a0yynnt6sff90_1752245878_img_0.webp'
-tags:   [travel, story, rest]
+tags:   [Field Study, Yield Impact, Soil Health]
+author: [Cynthia A. Bartel, Keri L. Jacobs, Kenneth J. Moore, D. Raj Raman]
 ---
 
 ## Abstract
