@@ -3,7 +3,7 @@ layout: publication
 title: Visualization of agricultural field operations
 description: This thesis proposes a novel visualization system for communicating the timing of field operations, for example planting cover crops and strip tillage, as might be required to adopt more sustainable farming practice. Grounded in the context of increasing environmental challenges and the pressing need for conservation agriculture, this work explores the historical evolution of visualization formats and techniques, underscoring their significance and benefits across various domains, before focusing on field operations of cropping systems.
 date:   2024-12-03
-image:  '/assets/images/assets_task_01jzxfb36fe899pc9w7da5p0k0_1752262181_img_1.webp'
+image:  '/assets/images/image copy 7.png'
 tags:   [Dissertation, Case Study, Crop Modeling]
 author: Philip Ekow Rockson
 ---
