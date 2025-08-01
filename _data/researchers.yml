@@ -4,19 +4,19 @@ researcher__description: The team dedicated to the PGC revolution.
 
 researcher__items:
   - name: "Sara Lira"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Sara Lira.jpeg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:sara.lira@corteva.com"
     content: "Senior Research Scientist at Corteva"
 
   - name: "Raj Raman, Ph.D."
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Raj Raman.jpeg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:rajraman@iastate.edu"
     content: "Professor, Ag & Biosystems Engineering at Iowa State University"
 
   - name: "MaryAnn Grapp"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/MaryAnn Grapp.jpeg"
     designation: "FAB-PGC"
     link: "mailto:maryann.grapp@corteva.com"
     content: "Research Administrator at Corteva"
@@ -34,19 +34,19 @@ researcher__items:
     content: "Research Intern at Corteva"
   
   - name: "Kyle Kocak"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Kyle Kocak.jpeg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:kyle.kocak@corteva.com"
     content: "Research Scientist at Corteva"
 
   - name: "Adam Walters"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/user-4254.png"
     designation: "FAB-PGC"
     link: "mailto:adam.walters@corteva.com"
     content: "Senior Research Associate at Corteva"
 
   - name: "Clint Pilcher"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Clint Pilcher.jpg"
     designation: "FAB-PGC"
     link: "mailto:clint.pilcher@corteva.com"
     content: "Global Technical Education Leader at Corteva"
@@ -58,7 +58,7 @@ researcher__items:
     content: "Research Program Manager for Perennial Legumes at The Land Institute"
 
   - name: "Mark Charlet"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/user-4254.png"
     designation: "FAB-PGC"
     link: "mailto:mark.charlet@corteva.com"
     content: "Senior Research Associate at Corteva"
@@ -70,97 +70,97 @@ researcher__items:
     content: "Research Intern at Corteva"
 
   - name: "Tasos Mazis"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/tasos mazis.jpeg"
     designation: "FAB-PGC"
     link: "mailto:tasos.mazis@corteva.com"
     content: "Post Doc - Precision Phenotyping at Corteva"
 
   - name: "Gabriela Silva-Pumarada"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Gabriela Silva-Pumarada.jpeg"
     designation: "FAB-PGC"
     link: "mailto:gabriela.silvapumarada@corteva.com"
     content: "Phenotyping Specialist at Corteva"
 
   - name: "Ken Moore, Ph.D."
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Ken Moore.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:kjmoore@iastate.edu"
     content: "Professor, Agronomy at Iowa State University"
 
   - name: "Roger Hintz"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Roger Hintz.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:rhintz@iastate.edu"
     content: "Research Technician at Iowa State University"
 
   - name: "Mirza Sakiroglu"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Mirza Sakiroglu.jpeg"
     designation: "FAB-PGC"
     link: "mailto:mirza.s@landinstitute.org"
-    content: "Legumes Research Assistant at The Land Institute"
+    content: "Legumes Research Assistant at The Land Institute (Cool guy who made this website)"
 
   - name: "Jamshid Ansari"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Jamshid Ansari.jpeg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:jamshid.ansari@missouri.edu"
     content: "Research Specialist at University of Missouri"
 
   - name: "Tomie Galusha"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Tomie galusha.jpg"
     designation: "FAB-PGC"
     link: "mailto:tgalusha1@unl.edu"
     content: "Research Technician at University of Nebraska, Lincoln"
 
   - name: "Tim Osterhaus"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/user-4254.png"
     designation: "FAB-PGC"
     link: "mailto:tosterhaus@wisc.edu"
     content: "Research Program Manager at University of Wisconsin, Madison"
 
   - name: "Nick Yerden"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/user-4254.png"
     designation: "FAB-PGC"
     link: "mailto:nyerden@wisc.edu"
     content: "Research Specialist at University of Wisconsin, Madison"
 
   - name: "Andrea Basche"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Andrea Basche.jpg"
     designation: "FAB-PGC"
     link: "mailto:abasche2@unl.edu"
     content: "Associate Professor, Agronomy and Horticulture at University of Nebraska, Lincoln"
 
   - name: "Anabelle Laurent"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Anabelle Laurent.jpg"
     designation: "FAB-PGC"
     link: "mailto:anabelle.laurent@corteva.com"
     content: "Research Agronomist at Corteva"
 
   - name: "Marshall McDaniel"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Marshall mcdaniel.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:marsh@iastate.edu"
     content: "Associate Professor, Agronomy - Soil Science at Iowa State University"
 
   - name: "Morgan Davis"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Morgan Davis.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:mpdavis@missouri.edu"
     content: "Asst Professor, Soil & Environmental Sciences at University of Missouri"
 
   - name: "Natalia DeLeon"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Natalia De Leon.jpg"
     designation: "FAB-PGC"
     link: "mailto:ndeleongatti@wisc.edu"
     content: "Professor, Plant and Agroecosystem Sciences at University of Wisconsin, Madison"
 
   - name: "Malcolm St Cyr"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Malcolm St. Cyr.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:mystcyr@iastate.edu"
     content: "MS Candidate at Iowa State University"
 
   - name: "Modestos Modestou"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Modestos Modestou.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:modestou@iastate.edu"
     content: "PhD candidate at Iowa State University"
@@ -172,7 +172,7 @@ researcher__items:
     content: "PhD candidate at University of Nebraska, Lincoln"
 
   - name: "Sidath Mendis"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Sidath Subodha Mendis.jpeg"
     designation: "FAB-PGC"
     link: "mailto:sidathmendis@missouri.edu"
     content: "PhD candidate at University of Missouri"
@@ -184,43 +184,43 @@ researcher__items:
     content: "Lead Scientist at The Land Institute"
 
   - name: "Courtland Kelly"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Courtland Kelly.jpeg"
     designation: "FAB-PGC"
     link: "mailto:courtland.kelly@corteva.com"
     content: "Domain Science Lead at Corteva"
 
   - name: "Daniel Andersen"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Daniel Andersen.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:dsa@iastate.edu"
     content: "Associate Professor, Manure Management and Water Quality at Iowa State University"
 
   - name: "Lucas Borras"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Borras Lucas.jpeg"
     designation: "FAB-PGC"
     link: "mailto:lucas.borras@corteva.com"
     content: "Senior Research Scientist at Corteva"
 
   - name: "Jose Rotundo"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Jose Luis Ratundo.jpeg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:jose.rotundo@corteva.com"
     content: "Research Scientist at Corteva"
 
   - name: "Cyndi Bartel"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Cynthia Bartel.jpeg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:cabartel@iastate.edu"
     content: "Research Scientist at Iowa State University"
 
   - name: "Rob Anex"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Rob Anex.jpg"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:anex@wisc.edu"
     content: "Professor, Biological Systems Engineering at University of Wisconsin, Madison"
 
   - name: "Steven Bly"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/user-4254.png"
     designation: "FAB-PGC~REGENPGC"
     link: "mailto:steve.bly@poet.com"
     content: "Bioproducts Research Director at POET Bioprocessing"
@@ -232,49 +232,37 @@ researcher__items:
     content: "Applications Developer at The Land Institute"
 
   - name: "Andy Vickers"
-    image: "/assets/images/image copy.png"
+    image: "/assets/images/Andy Vickers.jpeg"
     designation: "FAB-PGC"
     link: "mailto:andy.vickers@poet.com"
     content: "Bioproducts Research at POET Bioprocessing"
 
-  - name: Daniel Andersen, PhD
-    image: /assets/images/image copy.png
-    designation: "REGENPGC"
-    link: ''
-    content: Associate Professor, Manure Management & Water Quality at Iowa State University
-
-  - name: Cyndi Bartel, PhD
-    image: /assets/images/image copy.png
-    designation: "REGENPGC"
-    link: ''
-    content: Research Scientist at Iowa State University
-
   - name: Amani Elobeid, PhD
-    image: /assets/images/image copy.png
+    image: /assets/images/Amani Elobeid.jpg
     designation: "REGENPGC"
     link: ''
     content: Teaching Professor, Economics at Iowa State University
 
   - name: Shuizhang (Fei) Fei, PhD
-    image: /assets/images/image copy.png
+    image: /assets/images/Shui-zhang Fei.jpg
     designation: "REGENPGC"
     link: ''
     content: Professor, Grass Genetics and Breeding at Iowa State University
 
-  - name: Cornelia (Neal) Flora, PhD
-    image: /assets/images/image copy.png
+  - name: Cornelia (Neal) Flora, PhD (1943-2025)
+    image: /assets/images/Cornelia Butler Flora.jpg
     designation: "REGENPGC"
     link: ''
     content: Co-Pd Socioeconomic Impacts and Policy
 
   - name: Scott Flynn, PhD
-    image: /assets/images/image copy.png
+    image: /assets/images/Ernest-Flynn.png
     designation: "REGENPGC"
     link: ''
     content: Zonal Biology Leader for Pasture and Land Management Research, No. America at Corteva Agriscience
 
   - name: Susana Goggi, PhD
-    image: /assets/images/image copy.png
+    image: /assets/images/Susana Goggi.jpg
     designation: "REGENPGC"
     link: ''
     content: Professor, Agronomy & Seed Science at Iowa State University

@@ -14,6 +14,6 @@ In the first paper, I primarily examined productivist farmers’ perceptions of 
 
 In the second paper, I use a critical IA political economy lens through which to view dynamics within and between Community Capital stocks related to (perennial) cover crop adoption. Even though perennial groundcovers were only used sparingly by one interviewed farmer, most of the rest expressed interest in learning more about them, and perhaps even incorporating them in the future. Since 2002, PT farmers have increasingly used annual cover crops, in part because harvested corn and soybean acres have increased over time, whereas herbaceous perennial crops such as prairie, pasture, hay(lage), and alfalfa have decreased. Over that period, PT farmers have increasingly preferred herbicides over minimum tillage for weed control and cover crop termination (spray > spade), and leaching emissions have increased. To remedy, PT farmers, ag-adjacent personnel, and community leaders could replace the fourth RA principle of “maintain living roots year-round” with “no synthetic chemicals.” The former can be considered an implicit principle and secondary effect of “keep the soil covered” (3rd principle), and its omission could encourage more minimum tillage practices when and where appropriate.
 
-...
 
+### Contiune reading:
 [Ethnographic case study of Pottawatomie County (KS) community capital stocks, cover crops, and conservation agriculture.](https://zenodo.org/records/14912002)

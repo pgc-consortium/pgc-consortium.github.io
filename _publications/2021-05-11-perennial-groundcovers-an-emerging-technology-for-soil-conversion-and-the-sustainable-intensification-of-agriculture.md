@@ -3,7 +3,7 @@ layout: publication
 title: 'Perennial groundcovers: an emerging technology for soil conservation and the sustainable intensification of agriculture'
 description: Integrating perennial groundcovers (PGC) — sometimes referred to as living mulches or perennial cover crops — into annual cash-crop systems could address root causes of bare-soil practices that lead to negative impacts on soil and water quality. Perennial groundcovers bring otherwise absent functional traits — namely perenniality —into cash-crop systems to preserve soil and regenerate water, carbon, and nutrient cycles. However, if not optimized, they can also cause competitive interactions and yield loss. When designing PGC systems, the goal is to maximize complementarity — spatial and temporal separation of growth and resource acquisition — between PGC and cash crops through both breeding and management. Traits of interest include complementary root and shoot systems, reduced shade avoidance response in the cash-crop, and PGC summer dormancy. Successful deployment of PGC systems could increase both productivity and profitability by improving water- and nutrient-use-efficiency, improving weed and pest control, and creating additional value-added opportunities like stover harvest. Many scientific questions about the inherent interactions at the cell, plant, and ecosystem levels in PGC systems are waiting to be explored. Their answers could enable innovation and refinement of PGC system design for multiple geographies, crops, and food systems, creating a practical and scalable pathway towards resiliency, crop diversification, and sustainable intensification in agriculture.
 date: 2021-05-11
-image: '/assets/images/Pub-1.png'
+image: '/assets/images/image copy 6.png'
 tags:   [Field Study, Soil Health, Crop Modeling]
 author: [Brandon Joseph Schlautman , Cynthia Bartel , Luis Diaz-Garcia , Shui-Zhang Fei , Scott Flynn , Erin Haramoto , Ken Moore , Dave Raj Raman]
 
@@ -26,5 +26,5 @@ Agronomists in the US have been independently working for decades to design PGC-
 
 ...
 
-
+### Contiune reading:
 [Perennial groundcovers: an emerging technology for soil conservation and the sustainable intensification of agriculture](https://portlandpress.com/emergtoplifesci/article/5/2/337/228627/Perennial-groundcovers-an-emerging-technology-for)

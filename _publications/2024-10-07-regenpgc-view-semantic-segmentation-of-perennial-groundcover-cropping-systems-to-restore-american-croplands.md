@@ -36,6 +36,6 @@ leaders in the agricultural sector to leverage deep learning model architectures
 This current project seeks to develop two deep learning models to detect the boundaries of PGC plots, and then segment
 and predict important classes of vegetation in PGC field based images taken on a smartphone in ”local sensing” approach. These predictions are normalized to a standard ROI and are thus directly comparable across field plots in a trial and across trials. Furthermore, a goal of this project is to develop an end-to-end image analysis pipeline, here called ”RegenPGC View” that can take in a series of images, process them, and output the vegetation estimate results in a format accessible to agricultural researchers and farmers. Finally, we propose to develop an easy to use web application that ties the image management, pipeline, and data curation in one place. We anticipate that these tools will be an asset to the PGC research community, allowing them to get fast, objective data from their research trials, and informing policy and decisions about PGC systems.
 
-...
 
+### Contiune reading:
 [RegenPGC View: Semantic Segmentation of Perennial Groundcover Cropping Systems to Restore American Croplands](https://www.regenpgc.org/wp-content/uploads/2024/10/2024-10-07-Bo-Meyering-Thesis.pdf)

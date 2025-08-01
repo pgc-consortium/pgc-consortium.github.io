@@ -75,7 +75,7 @@ Harvest activities are equivalent between PGC and SCC. In an optimized PGC syste
 #### Sensitivity Analysis
 We completed a sensitivity analysis to compare SCC and corn in a PGC system. As recommended by Nelson et al. (2014) [45], we implemented a Monte Carlo simulation to evaluate the uncertainty in the differences between scenarios (see cost model and VBA Excel code for the Monte Carlo simulation, Appendix A). Using the static model, we determined that the following four terms drove the cost differences between the PGC and SCC scenarios: corn yield, herbicide cost, grass seed cost, and stover price. Using published 15-year historical data for these terms [46], we determined the coefficients of variation for each parameter. Although the corn price does not impact the cost differences between scenarios, we similarly estimated its coefficient of variation, allowing for simulation of these five key variables as normally distributed random variables with mean and standard deviations based on historical data for 1000 iterations in a Monte Carlo simulation.
 
-...
 
+### Contiune reading:
 [Anticipatory Technoeconomic Evaluation of Kentucky Bluegrass-Based Perennial Groundcover Implementations in Large-Scale Midwestern US Corn Production Systems](https://www.mdpi.com/2071-1050/16/16/7112)
 

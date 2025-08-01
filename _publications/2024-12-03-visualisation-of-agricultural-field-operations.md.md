@@ -40,6 +40,5 @@ To develop a comprehensive suite of approaches for visualizing farming operation
 To evaluate the effectiveness of the proposed FOVs with multiple constituencies, each time gathering data to continually enhance their effectiveness.
 To identify the most efficient and impactful FOV, employ it to convey the time demands of existing cropping systems, and for future integration into an open-source framework, making it accessible for others to utilize and further enhance.
 
-...
-
+### Contiune reading:
 [Visualization of agricultural field operations](https://www.regenpgc.org/wp-content/uploads/2024/08/Rockson-Visualization_of_Agricultural_.pdf)

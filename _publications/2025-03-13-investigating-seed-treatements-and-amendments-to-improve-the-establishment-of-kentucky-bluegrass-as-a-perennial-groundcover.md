@@ -3,7 +3,7 @@ layout: publication
 title:   Investigating Seed Treatments and Soil Amendments to Improve the Establishment of Kentucky Bluegrass as a Perennial Groundcover
 description: Kentucky bluegrass (KBG) has poor seed establishment in the fall when used as a perennial groundcover in corn production. This study was conducted to investigate the effect of various seed treatments and soil amendments on the establishment of KBG under drought and non-drought conditions, simulated in a growth chamber.
 date:   2025-03-13
-image:  '/assets/images/Pub-2.png'
+image:  '/assets/images/seed kentucky bluegrass.png'
 tags:   [Field Study, Plant Breeding, Yield Impact]
 author: [Jack Moran, A. Susana Goggi , Ken J. Moore, Shui-zhang Fei]
 ---
@@ -24,6 +24,6 @@ Despite these favorable characteristics, the management of KBG in a turfgrass sy
 
 The goal of this experiment is to identify a seed treatment or soil amendment capable of expediting seed germination and promoting seedling vigor. To date, much of the research into solutions for improving KBG establishment focuses on sports turf and intensively managed lawns. The application of these solutions to a PGC system could overcome the problem of poor KBG germination due to low soil moisture in the fall. Better established PGC would enhance soil health, and reduce soil erosion and nutrient leaching into waterways, allowing farmers to contribute towards achieving the UN sustainable development goals related to taking climate action, preserving life on land, and improving water quality [19]. Furthermore, this approach would remove the need to resow the PGC in year 2, resulting in reduced annual labor input and increased profit for row-crop farmers [20]. The objective of this study is to evaluate the effectiveness of different seed treatments and soil amendments in regard to improving seed germination and establishment of KBG under drought and non-drought conditions. The results of this research may provide insights that could lead to the development of a more reliable PGC for corn farmers in the Midwest.
 
-...
 
+### Contiune reading:
 [ Investigating Seed Treatments and Soil Amendments to Improve the Establishment of Kentucky Bluegrass as a Perennial Groundcover](https://www.mdpi.com/2674-1024/4/1/16)
