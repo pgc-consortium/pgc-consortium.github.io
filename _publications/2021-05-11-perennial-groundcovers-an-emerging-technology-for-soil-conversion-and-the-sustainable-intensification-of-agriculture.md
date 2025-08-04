@@ -26,5 +26,5 @@ Agronomists in the US have been independently working for decades to design PGC-
 
 ...
 
-### Contiune reading:
+### Continue reading:
 [Perennial groundcovers: an emerging technology for soil conservation and the sustainable intensification of agriculture](https://portlandpress.com/emergtoplifesci/article/5/2/337/228627/Perennial-groundcovers-an-emerging-technology-for)
