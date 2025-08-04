@@ -26,5 +26,8 @@ Agronomists in the US have been independently working for decades to design PGC-
 
 ...
 
+### Funding:
+This work was made possible through charitable donations given to The Land Institute, Salina, KS. We acknowledge additional funding from the Iowa Nutrient Research Center, the SunGrant Initiative, the US Department of Transportation, and the USDA NIFA AFRI program.
+
 ### Continue reading:
 [Perennial groundcovers: an emerging technology for soil conservation and the sustainable intensification of agriculture](https://portlandpress.com/emergtoplifesci/article/5/2/337/228627/Perennial-groundcovers-an-emerging-technology-for)
