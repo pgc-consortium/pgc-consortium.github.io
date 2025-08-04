@@ -31,7 +31,7 @@ To adapt STICS to a novel plant file, multiple years of data are needed. Agronom
 
 Once STICS is parameterized to KBG, the new plant file can be used in the intercrop simulation with corn. Data from a study near Ames, IA by Wiggans et al. was used to evaluate model performance and determine whether STICS is a suitable model for capturing trends in the water balance of a corn-based PGC system (Wiggans et al. 2012a; 2012b).
 
-### Disclaimer:
+### Funding:
 RegenPGC is supported by the Agriculture and Food Research Initiative Competitive Grant no. 2021-68012-35923 from the USDA National Institute of Food and Agriculture. Any opinions, findings, conclusions, or recommendations expressed in this article are those of the authors and do not necessarily reflect the view of the U.S. Department of Agriculture.
 
 ### Continue reading:
