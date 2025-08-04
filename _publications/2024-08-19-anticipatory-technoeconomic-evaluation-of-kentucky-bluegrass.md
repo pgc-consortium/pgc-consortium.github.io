@@ -4,7 +4,7 @@ title:  Anticipatory Technoeconomic Evaluation of Kentucky Bluegrass-Based Peren
 description: Perennial groundcover (PGC) has promise as a scalable approach to generating natural resource benefits and sustainable biofuel feedstock while preserving the high yields of annual row crop production. Partnering row crops with temporally and spatially complementary low-growing, shallow-rooted perennials, such as Kentucky bluegrass (KBG) (Poa pratensis L.), is one example of an emerging PGC system. PGC’s ecosystem benefits can only be fully realized if commercial-scale adoption occurs, which hinges on its economic feasibility. This paper utilizes an enterprise budget framework to detail and compare the expected cost and revenue of establishing and maintaining PGC in row crop systems with standard continuous corn (SCC) (Zea mays L.) production, including stover harvest, but excluding economic incentives for ecosystem services. Optimistic and pessimistic assumptions were used, along with Monte Carlo simulation, to characterize the uncertainty in results. In the optimistic stover market scenario, Year 1 net returns for PGC averaged USD 84/ac less than for SCC; Year 2+ net returns averaged USD 83/ac more, meaning that cost parity with SCC occurs by the second PGC system year. Without stover revenue, parity is achieved after five years. These results affirm that PGC’s economic viability is critically impacted by a groundcover’s lifespan, the yield parity with SCC, and the availability of a stover market.
 
 date:   2024-08-19
-image:  '/assets/images/assets_task_01jzwzrzqeef2a0yynnt6sff90_1752245878_img_0.webp'
+image:  'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/assets_task_01jzwzrzqeef2a0yynnt6sff90_1752245878_img_0.webp'
 tags:   [Field Study, Yield Impact, Soil Health]
 author: [Cynthia A. Bartel, Keri L. Jacobs, Kenneth J. Moore, D. Raj Raman]
 ---
@@ -15,7 +15,7 @@ Perennial groundcover (PGC) has promise as a scalable approach to generating nat
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/sustainability-16-07112-g001.png" loading="lazy" alt="City">
+    <img src="https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/sustainability-16-07112-g001.png" loading="lazy" alt="City">
   </div>
 </div>
 
@@ -75,6 +75,8 @@ Harvest activities are equivalent between PGC and SCC. In an optimized PGC syste
 #### Sensitivity Analysis
 We completed a sensitivity analysis to compare SCC and corn in a PGC system. As recommended by Nelson et al. (2014) [45], we implemented a Monte Carlo simulation to evaluate the uncertainty in the differences between scenarios (see cost model and VBA Excel code for the Monte Carlo simulation, Appendix A). Using the static model, we determined that the following four terms drove the cost differences between the PGC and SCC scenarios: corn yield, herbicide cost, grass seed cost, and stover price. Using published 15-year historical data for these terms [46], we determined the coefficients of variation for each parameter. Although the corn price does not impact the cost differences between scenarios, we similarly estimated its coefficient of variation, allowing for simulation of these five key variables as normally distributed random variables with mean and standard deviations based on historical data for 1000 iterations in a Monte Carlo simulation.
 
+### Funding:
+RegenPGC is supported by the Agriculture and Food Research Initiative Competitive Grant no. 2021-68012-35923 from the USDA National Institute of Food and Agriculture. Any opinions, findings, conclusions, or recommendations expressed in this article are those of the authors and do not necessarily reflect the view of the U.S. Department of Agriculture.
 
 ### Continue reading:
 [Anticipatory Technoeconomic Evaluation of Kentucky Bluegrass-Based Perennial Groundcover Implementations in Large-Scale Midwestern US Corn Production Systems](https://www.mdpi.com/2071-1050/16/16/7112)

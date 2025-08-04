@@ -3,7 +3,7 @@ layout: publication
 title:  Simulation of the water balance in a perennial groundcover corn intercrop with the STICS crop model 
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2024-05-13
-image:  '/assets/images/assets_task_01jzxfkrs0ewh80gyprb5j9w57_1752262452_img_0.webp'
+image:  'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/assets_task_01jzxfkrs0ewh80gyprb5j9w57_1752262452_img_0.webp'
 tags:   [Simulation, Water Balance, Crop Modeling]
 author: Kaila Topping
 ---
@@ -31,6 +31,8 @@ To adapt STICS to a novel plant file, multiple years of data are needed. Agronom
 
 Once STICS is parameterized to KBG, the new plant file can be used in the intercrop simulation with corn. Data from a study near Ames, IA by Wiggans et al. was used to evaluate model performance and determine whether STICS is a suitable model for capturing trends in the water balance of a corn-based PGC system (Wiggans et al. 2012a; 2012b).
 
+### Funding:
+RegenPGC is supported by the Agriculture and Food Research Initiative Competitive Grant no. 2021-68012-35923 from the USDA National Institute of Food and Agriculture. Any opinions, findings, conclusions, or recommendations expressed in this article are those of the authors and do not necessarily reflect the view of the U.S. Department of Agriculture.
 
 ### Continue reading:
 [Simulation of the water balance in a perennial groundcover corn intercrop with the STICS crop model](https://www.regenpgc.org/wp-content/uploads/2024/05/Topping-Agroecology-Thesis.pdf)

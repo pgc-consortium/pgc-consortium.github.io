@@ -3,7 +3,7 @@ layout: publication
 title: 'Perennial groundcovers: an emerging technology for soil conservation and the sustainable intensification of agriculture'
 description: Integrating perennial groundcovers (PGC) — sometimes referred to as living mulches or perennial cover crops — into annual cash-crop systems could address root causes of bare-soil practices that lead to negative impacts on soil and water quality. Perennial groundcovers bring otherwise absent functional traits — namely perenniality —into cash-crop systems to preserve soil and regenerate water, carbon, and nutrient cycles. However, if not optimized, they can also cause competitive interactions and yield loss. When designing PGC systems, the goal is to maximize complementarity — spatial and temporal separation of growth and resource acquisition — between PGC and cash crops through both breeding and management. Traits of interest include complementary root and shoot systems, reduced shade avoidance response in the cash-crop, and PGC summer dormancy. Successful deployment of PGC systems could increase both productivity and profitability by improving water- and nutrient-use-efficiency, improving weed and pest control, and creating additional value-added opportunities like stover harvest. Many scientific questions about the inherent interactions at the cell, plant, and ecosystem levels in PGC systems are waiting to be explored. Their answers could enable innovation and refinement of PGC system design for multiple geographies, crops, and food systems, creating a practical and scalable pathway towards resiliency, crop diversification, and sustainable intensification in agriculture.
 date: 2021-05-11
-image: '/assets/images/image copy 6.png'
+image: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/image%20copy%206.png'
 tags:   [Field Study, Soil Health, Crop Modeling]
 author: [Brandon Joseph Schlautman , Cynthia Bartel , Luis Diaz-Garcia , Shui-Zhang Fei , Scott Flynn , Erin Haramoto , Ken Moore , Dave Raj Raman]
 
@@ -12,7 +12,7 @@ Integrating perennial groundcovers (PGC) — sometimes referred to as living mul
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/etls-2020-0318c.01.png" loading="lazy" alt="Project">
+    <img src="https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/etls-2020-0318c.01.png" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
@@ -25,6 +25,9 @@ Incorporating low-growing, non-competitive (i.e. ecologically complementary) PGC
 Agronomists in the US have been independently working for decades to design PGC-corn production systems using clovers and turfgrasses [9–13]. Research in South America and Africa is further advanced with broad deployment of PGC-corn system variations, namely, the ‘Push-Pull’ system in Kenya for low-input pest management and Integrated Crop-Livestock-Forest systems in Brazil to enhance productivity in depleted soils [14,15]. Regardless of PGC species or location, research routinely demonstrates that PGC delivers reductions in soil erosion, nutrient runoff, and nitrate leaching [16–19]. Corn and soybean yields grown with PGC can be equal to or better than when grown conventionally; however, failure to manage PGC and cash-crops interactions leads to significant yield loss [11,20]. Optimization and widespread adoption of PGC requires generating and leveraging knowledge about the diverse interactions at the cell, plant, and ecosystem levels inherent in these systems.
 
 ...
+
+### Funding:
+This work was made possible through charitable donations given to The Land Institute, Salina, KS. We acknowledge additional funding from the Iowa Nutrient Research Center, the SunGrant Initiative, the US Department of Transportation, and the USDA NIFA AFRI program.
 
 ### Continue reading:
 [Perennial groundcovers: an emerging technology for soil conservation and the sustainable intensification of agriculture](https://portlandpress.com/emergtoplifesci/article/5/2/337/228627/Perennial-groundcovers-an-emerging-technology-for)

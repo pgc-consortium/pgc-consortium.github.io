@@ -3,7 +3,7 @@ layout: publication
 title: Visualization of agricultural field operations
 description: This thesis proposes a novel visualization system for communicating the timing of field operations, for example planting cover crops and strip tillage, as might be required to adopt more sustainable farming practice. Grounded in the context of increasing environmental challenges and the pressing need for conservation agriculture, this work explores the historical evolution of visualization formats and techniques, underscoring their significance and benefits across various domains, before focusing on field operations of cropping systems.
 date:   2024-12-03
-image:  '/assets/images/image copy 7.png'
+image:  'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/image%20copy%207.png'
 tags:   [Dissertation, Case Study, Crop Modeling]
 author: Philip Ekow Rockson
 ---
@@ -39,6 +39,9 @@ To conduct a review of the literature on existing tools employed in communicatin
 To develop a comprehensive suite of approaches for visualizing farming operations, referred to as Farm Operations Visualizers (FOVs).
 To evaluate the effectiveness of the proposed FOVs with multiple constituencies, each time gathering data to continually enhance their effectiveness.
 To identify the most efficient and impactful FOV, employ it to convey the time demands of existing cropping systems, and for future integration into an open-source framework, making it accessible for others to utilize and further enhance.
+
+### Funding:
+RegenPGC is supported by the Agriculture and Food Research Initiative Competitive Grant no. 2021-68012-35923 from the USDA National Institute of Food and Agriculture. Any opinions, findings, conclusions, or recommendations expressed in this article are those of the authors and do not necessarily reflect the view of the U.S. Department of Agriculture.
 
 ### Continue reading:
 [Visualization of agricultural field operations](https://www.regenpgc.org/wp-content/uploads/2024/08/Rockson-Visualization_of_Agricultural_.pdf)
