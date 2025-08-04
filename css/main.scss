@@ -35,7 +35,7 @@
     3.10-Testimonials
     3.11-Footer
 :: 4-Layouts
-    4.1-Post
+    4.1-Publication
     4.2-Project
     4.3-Tags Page
 <<<<<<<<<<<<<<<<<<<<<<<<<<<< */
@@ -101,17 +101,19 @@
 {% include_relative _3-modules/sections.scss %}
 /* >>>>>>>>>>>>>> 3.9-Projects <<<<<<<<<<<<<<< */
 {% include_relative _3-modules/projects.scss %}
-/* >>>>>>>>>>>>>> 3.10-Testimonials <<<<<<<<<<<<<<< */
-{% include_relative _3-modules/testimonials.scss %}
+/* >>>>>>>>>>>>>> 3.10- Researchers <<<<<<<<<<<<<<< */
+{% include_relative _3-modules/researchers.scss %}
 /* >>>>>>>>>>>>>> 3.11-Footer <<<<<<<<<<<<<<< */
 {% include_relative _3-modules/footer.scss %}
+/* >>>>>>>>>>>>>> 3.12-SOPs <<<<<<<<<<<<<<< */
+{% include_relative _3-modules/sops.scss %}
 
 
 /* =======================
 :: 4-Layouts
 ======================= */
-/* >>>>>>>>>>>>>> 4.1-Post <<<<<<<<<<<<<<< */
-{% include_relative _4-layouts/post.scss %}
+/* >>>>>>>>>>>>>> 4.1-Publication <<<<<<<<<<<<<<< */
+{% include_relative _4-layouts/publication.scss %}
 /* >>>>>>>>>>>>>> 4.2-Project <<<<<<<<<<<<<<< */
 {% include_relative _4-layouts/project.scss %}
 /* >>>>>>>>>>>>>> 4.3-Tags Page <<<<<<<<<<<<<<< */

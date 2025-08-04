@@ -109,68 +109,83 @@
   }
 }
 
-.hero__subscribe {
-  max-width: 510px;
-  margin-top: 48px;
 
-  .subscribe-form {
-    position: relative;
-    background-color: var(--background-color);
-  }
+/* === Full-Width Video Hero Extension no borders=== */
+.hero__video-wrapper {
+  position: relative;
+  width: 100vw;
+  max-width: 100vw;
+  overflow: hidden;
+}
 
-  .subscribe-email {
+.hero__video {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  border-radius: 0; /* ← Temporarily disabled */
+  box-shadow: none; /* ← Also optional, can re-enable later */
+
+  video {
     width: 100%;
-    height: 70px;
-    padding: 20px;
-    font-size: 16px;
-    line-height: 21px;
-    border: 2px solid transparent;
-    border-radius: 12px;
-    outline: 0;
-    color: var(--heading-font-color);
-    background-color: var(--background-alt-color);
-
-    &:focus {
-      border-color: var(--brand-color);
-      background-color: transparent;
-    }
-
-    &::placeholder {
-      color: var(--heading-font-color);
-    }
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 0;
   }
+}
 
-  .subscribe-button {
-    position: absolute;
-    top: 6px;
-    right: 6px;
-  }
+
+.hero__overlay {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  text-align: center;
+  padding: 0 1rem;
+  width: 100%;
+  max-width: 90%;
+}
+
+.hero__overlay .hero__title {
+  color: white;
+  font-size: 72px;
+  font-weight: 800;
+  line-height: 1.2;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 
   @media only screen and (max-width: $wide) {
-    max-width: 100%;
-    margin-top: 32px;
-  }
-
-  @media only screen and (max-width: $desktop) {
-    margin-top: 20px;
+    font-size: 60px;
   }
 
   @media only screen and (max-width: $mobile) {
+    font-size: 36px;
+  }
+}
+/* override bootstrap because why not(or else the video defaults to the bootstrap set with) */
+.hero .container {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+}
 
-    .subscribe-form {
-      display: flex;
-      flex-direction: column;
-    }
+.hero__content {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  max-width: 800px;
 
-    .subscribe-email {
-      height: 58px;
-      margin-bottom: 12px;
-    }
+  .hero__description {
+    font-size: 20px;
 
-    .subscribe-button {
-      position: relative;
-      top: 0;
-      right: 0;
+    @media only screen and (max-width: $mobile) {
+      font-size: 16px;
     }
   }
 }
