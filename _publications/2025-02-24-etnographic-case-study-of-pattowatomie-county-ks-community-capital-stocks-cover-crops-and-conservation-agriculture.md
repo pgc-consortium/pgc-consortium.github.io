@@ -3,7 +3,7 @@ layout: publication
 title:  Ethnographic case study of Pottawatomie County (KS) community capital stocks, cover crops, and conservation agriculture.
 description: Pottawatomie County (PT) is the fastest growing county in Kansas, featuring never-plowed Flint Hills prairie, Oregon trail ruts, and high-end cattle production. Population, income, and most wellbeing metrics have increased, especially in PT’s southern subdivisions bordering the Kansas river, where more than 80% of PT’s population is concentrated.
 date:   2025-02-24
-image:  '/assets/images/Pub-3.png'
+image:  'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/Pub-3.png'
 tags:   [Case Study, Soil Health, Farmer Experience]
 author: [Cornelia Flora, Jacob A. Miller-Klugesherz]
 ---

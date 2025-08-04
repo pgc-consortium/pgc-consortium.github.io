@@ -3,7 +3,7 @@ layout: publication
 title:   Investigating Seed Treatments and Soil Amendments to Improve the Establishment of Kentucky Bluegrass as a Perennial Groundcover
 description: Kentucky bluegrass (KBG) has poor seed establishment in the fall when used as a perennial groundcover in corn production. This study was conducted to investigate the effect of various seed treatments and soil amendments on the establishment of KBG under drought and non-drought conditions, simulated in a growth chamber.
 date:   2025-03-13
-image:  '/assets/images/seed kentucky bluegrass.png'
+image:  'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/seed%20kentucky%20bluegrass.png'
 tags:   [Field Study, Plant Breeding, Yield Impact]
 author: [Jack Moran, A. Susana Goggi , Ken J. Moore, Shui-zhang Fei]
 ---
@@ -17,7 +17,7 @@ Despite these favorable characteristics, the management of KBG in a turfgrass sy
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/image.png" loading="lazy" alt="House">
+    <img src="https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/image.png" loading="lazy" alt="House">
   </div>
 </div>
 

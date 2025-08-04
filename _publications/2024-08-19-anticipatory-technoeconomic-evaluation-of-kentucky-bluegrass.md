@@ -4,7 +4,7 @@ title:  Anticipatory Technoeconomic Evaluation of Kentucky Bluegrass-Based Peren
 description: Perennial groundcover (PGC) has promise as a scalable approach to generating natural resource benefits and sustainable biofuel feedstock while preserving the high yields of annual row crop production. Partnering row crops with temporally and spatially complementary low-growing, shallow-rooted perennials, such as Kentucky bluegrass (KBG) (Poa pratensis L.), is one example of an emerging PGC system. PGC’s ecosystem benefits can only be fully realized if commercial-scale adoption occurs, which hinges on its economic feasibility. This paper utilizes an enterprise budget framework to detail and compare the expected cost and revenue of establishing and maintaining PGC in row crop systems with standard continuous corn (SCC) (Zea mays L.) production, including stover harvest, but excluding economic incentives for ecosystem services. Optimistic and pessimistic assumptions were used, along with Monte Carlo simulation, to characterize the uncertainty in results. In the optimistic stover market scenario, Year 1 net returns for PGC averaged USD 84/ac less than for SCC; Year 2+ net returns averaged USD 83/ac more, meaning that cost parity with SCC occurs by the second PGC system year. Without stover revenue, parity is achieved after five years. These results affirm that PGC’s economic viability is critically impacted by a groundcover’s lifespan, the yield parity with SCC, and the availability of a stover market.
 
 date:   2024-08-19
-image:  '/assets/images/assets_task_01jzwzrzqeef2a0yynnt6sff90_1752245878_img_0.webp'
+image:  'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/assets_task_01jzwzrzqeef2a0yynnt6sff90_1752245878_img_0.webp'
 tags:   [Field Study, Yield Impact, Soil Health]
 author: [Cynthia A. Bartel, Keri L. Jacobs, Kenneth J. Moore, D. Raj Raman]
 ---
@@ -15,7 +15,7 @@ Perennial groundcover (PGC) has promise as a scalable approach to generating nat
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/sustainability-16-07112-g001.png" loading="lazy" alt="City">
+    <img src="https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/sustainability-16-07112-g001.png" loading="lazy" alt="City">
   </div>
 </div>
 

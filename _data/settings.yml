@@ -78,21 +78,21 @@ publications__settings:
 gallery:
   gallery__images:
     - alt: 'Kentucky Bluegrass Seed'
-      url: '/assets/images/kbg_seed_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/kbg_seed_cropped.jpg'
     - alt: 'Planting the Field'
-      url: '/assets/images/planter_cropped.jpeg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/planter_cropped.jpeg'
     - alt: 'Corn and Soybean at Emergence'
-      url: '/assets/images/corn_soybean_VE_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/corn_soybean_VE_cropped.jpg'
     - alt: 'Establishing PGC in the field'
-      url: '/assets/images/PGC_establishment_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/PGC_establishment_cropped.jpg'
     - alt: 'Corn at V6 in KBG'
-      url: '/assets/images/corn_v6_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/corn_v6_cropped.jpg'
     - alt: 'Corn tasseling at sundown'
-      url: '/assets/images/corn_vt_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/corn_tassel_2_cropped.jpg'
     - alt: 'PGC Height'
-      url: '/assets/images/PGC_height_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/PGC_height_cropped.jpg'
     - alt: 'Harvest Time'
-      url: '/assets/images/harvest_cropped.jpg'
+      url: 'https://pgcconsortium.nyc3.cdn.digitaloceanspaces.com/harvest_cropped.jpg'
 
 
 #-------------------------------
